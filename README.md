@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
+![snake gif](https://github.com/victrhugo/victrhugo/blob/output/github-contribution-grid-snake.svg)
 
 ###
