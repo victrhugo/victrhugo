@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Conhecimentos em Python C/C++/C# e Java. Um futuro Engenheiro de Software <br>
+<p align="left">📚 Futuro engenheiro de software. Cursando Análise e Desenvolvimento de Sistemas. <br>
 
 ###
 
