@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Victor Hugo, Engenheiro de Software</p>
+<p align="left">Me chamo Victor Hugo</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente me aprofundando em Java <br>
+<p align="left">📚 Conhecimentos em Python C/C++/C# e Java. Um futuro Engenheiro de Software <br>
 
 ###
 
