@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/csharp-plain-icon-894x1024-8366adxy.png" height="40" alt="c# logo"  />
   <img width="12" />
+  <img src="https://www.fast2.tech/images/connectors/sql-logo.webp" height="40" alt="sql logo"  />
+  <img width="12" />
 </div>
 
 ###
