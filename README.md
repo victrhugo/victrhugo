@@ -27,7 +27,6 @@
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/csharp-plain-icon-894x1024-8366adxy.png" height="40" alt="c# logo"  />
   <img width="12" />
-  <img src="[[https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png](https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)](https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png?20190828223431)" height="40" alt="java logo"  />
 </div>
 
 ###
