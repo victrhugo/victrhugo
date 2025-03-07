@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png)" height="40" alt="storybook logo"  />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/python-original-icon-1696x2048-bpf2sa7d.png" height="40" alt="python logo"  />
   <img width="12" />
