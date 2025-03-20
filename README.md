@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/python-original-icon-1696x2048-bpf2sa7d.png" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/csharp-plain-icon-894x1024-8366adxy.png" height="40" alt="c# logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" height="40" alt="c# logo"  />
   <img width="12" />
   <img src="https://static.vecteezy.com/system/resources/thumbnails/036/044/336/small_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" height="40" alt="sql logo"  />
   <img width="12" />
