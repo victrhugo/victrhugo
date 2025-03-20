@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://static.vecteezy.com/system/resources/thumbnails/036/044/336/small_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" height="40" alt="sql logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DotNet.svg" height="40" alt=".net logo" />
+  <img width= "12" />
 </div>
 
 ###
