@@ -12,6 +12,8 @@
 
 <p align="left">📚 Futuro engenheiro de software, atualmente me aprofundando em Programação Orientada a Objetos (POO) com Java, buscando aplicar conceitos avançados para resolver problemas complexos. Focado em aprimorar minhas habilidades em design de software escalável, clean code e boas práticas de desenvolvimento, estou em constante aprendizado para dominar frameworks e ferramentas do ecossistema Java. Com paixão por tecnologia e inovação, busco oportunidades que me desafiem e permitam crescer profissionalmente em ambientes colaborativos e ágeis.  <br>
 
+<p align="left">✈️ Morei nos EUA (Texas) por 6 meses em um intercambio <br>
+
 ###
 
 ###
