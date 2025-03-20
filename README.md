@@ -19,17 +19,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="40" alt="java logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Dark.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/python-original-icon-1696x2048-bpf2sa7d.png" height="40" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" height="40" alt="c# logo"  />
   <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/036/044/336/small_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" height="40" alt="sql logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DotNet.svg" height="40" alt=".net logo" />
+  <img width= "12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Spring-Dark.svg" height="40" alt="spring logo" />
+  <img width= "12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" height="40" alt="git logo" />
   <img width= "12" />
 </div>
 
