@@ -14,6 +14,14 @@
 
 <p align="left">✈️ Morei nos EUA (Texas) por 6 meses em um intercambio. <br>
 
+```javascript
+const victor = {
+  code: [C#, Java, Python, PHP, CSS],
+  tools: [Node, Docker, SQL Server, VS],
+ challenge: "Every day learn more and more technologies"
+}
+```
+
 ###
 
 ###
