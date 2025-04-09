@@ -16,9 +16,7 @@
 
 ```javascript
 const victor = {
-  code: [C#, Java, Python, PHP, CSS],
-  tools: [Node, Docker, SQL Server, VS],
- challenge: "Every day learn more and more technologies"
+ Sobre mim: "📚 Futuro engenheiro de software, atualmente me aprofundando em Programação Orientada a Objetos (POO) com Java, buscando aplicar conceitos avançados para resolver problemas complexos. Focado em aprimorar minhas habilidades em design de software escalável, clean code e boas práticas de desenvolvimento, estou em constante aprendizado para dominar frameworks e ferramentas do ecossistema Java. Com paixão por tecnologia e inovação, busco oportunidades que me desafiem e permitam crescer profissionalmente em ambientes colaborativos e ágeis."
 }
 ```
 
