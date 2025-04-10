@@ -17,28 +17,21 @@ const victor = {
   foco: "🚀 Aprendizado contínuo — explorando novas tecnologias, otimizando projetos e criando soluções que fazem a diferença.",
   stack: "🔧 Java, C#, Python, SQL, entre outras tecnologias."
 }
-
-
+```
 ###
 <p align="left">🌎 Morei nos EUA (Texas) por 6 meses em um intercâmbio cultural e acadêmico.<br>
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Dark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" height="40" alt="c# logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DotNet.svg" height="40" alt=".net logo" />
-  <img width= "12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Spring-Dark.svg" height="40" alt="spring logo" />
-  <img width= "12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" height="40" alt="git logo" />
-  <img width= "12" />
-</div>
+<h2 align="left">🛠️ Tecnologias & Ferramentas</h2> 
+<div align="left"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" height="40" alt="JavaScript" /> <img width="10" /> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Dark.svg" height="40" alt="Java" /> <img width="10" /> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg" height="40" alt="Python" /> <img width="10" /> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" height="40" alt="C#" /> <img width="10" /> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg" height="40" alt="MySQL" /> <img width="10" /> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DotNet.svg" height="40" alt=".NET" /> <img width="10" /> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Spring-Dark.svg" height="40" alt="Spring" /> <img width="10" /> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" height="40" alt="Git" /> </div> 
+  <h2 align="left">📊 Estatísticas GitHub</h2>
+  <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=victrhugo&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true" height="150" alt="GitHub Stats" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victrhugo&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" /> </div>
