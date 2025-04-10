@@ -10,7 +10,7 @@
 
 ###
 
-javascript
+```javascript
 const victor = {
   nome: "Victor Hugo",
   perfil: "💡 Desenvolvedor de software movido pela curiosidade e pela vontade de evoluir constantemente.",
