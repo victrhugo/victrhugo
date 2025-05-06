@@ -28,11 +28,11 @@ const victor = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img width="10" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" /> <img width="10" /> 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg" height="40" alt="Python" /> <img width="10" /> 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" height="40" alt="C#" /> <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C#" /> <img width="10" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> <img width="10" /> 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DotNet.svg" height="40" alt=".NET" /> <img width="10" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" /> <img width="10" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="Spring" /> <img width="10" /> 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" height="40" alt="Git" /> </div> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" /> </div> 
   <h2 align="left">📊 Estatísticas GitHub</h2>
   <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=victrhugo&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true" height="150" alt="GitHub Stats" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victrhugo&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" /> </div>
