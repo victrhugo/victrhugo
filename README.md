@@ -15,7 +15,7 @@ const victor = {
   nome: "Victor Hugo",
   perfil: "💡 Desenvolvedor de software movido pela curiosidade e pela vontade de evoluir constantemente.",
   foco: "🚀 Aprendizado contínuo — explorando novas tecnologias, otimizando projetos e criando soluções que fazem a diferença.",
-  stack: "🔧 Java, C#, Python, SQL, entre outras tecnologias."
+  stack: "🔧 Java + Spring boot, C# + .NET & ASP.NET, Javascript, Python, AWS (EC2 & Lambda), entre outras tecnologias."
 }
 ```
 ###
