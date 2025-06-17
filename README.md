@@ -59,4 +59,4 @@ const victor = {
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiagolourenco&layout=compact)](https://github.com/thiiagolourenco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victrhugo&layout=compact)](https://github.com/victrhugo/github-readme-stats)
