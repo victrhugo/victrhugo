@@ -1,75 +1,106 @@
 # 👋 Hello World!
 
-Sou o **Victor Hugo**, apaixonado por tecnologia, desenvolvimento de software e resolução criativa de problemas.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas** com foco no **Backend**.
+I'm **Victor Hugo**, a **Backend Software Developer** focused on building **scalable, resilient, and well-architected systems**.  
+Driven by curiosity, continuous learning, and real-world problem solving.
+
+Currently pursuing a degree in **Systems Analysis and Development**, with strong hands-on experience in **Java, Spring Boot, Cloud, and Distributed Systems**.
 
 ---
 
-## 🚀 Sobre mim...
-```javascript
-const victor = {
-    nome: "Victor Hugo",
-    perfil: "Desenvolvedor de software movido pela curiosidade e pela vontade de evoluir constantemente.",
-    foco: "Backend & Cloud",
-    aprendizado: "Explorando novas tecnologias, criando soluções escaláveis e impactantes.",
-    stack: ["Java", "Spring Boot", "C#", ".NET & ASP.NET", "JavaScript", "Python", "AWS (EC2 & Lambda)", "Docker", "Git"]
-};
+## 🚀 About Me
+
+```java
+public class VictorHugo {
+
+    private String role = "Backend Software Engineer";
+    private String focus = "Backend • Cloud • Microservices • Distributed Systems";
+    private String mindset = "Build scalable solutions with clean architecture and strong fundamentals";
+
+    private List<String> stack = List.of(
+        "Java", "Spring Boot", "Microservices",
+        "Messaging", "Observability", "Cloud", "Docker"
+    );
+}
 ```
 
-💡 Aprendo rápido, gosto de desafios e acredito que **cada linha de código é uma oportunidade de criar algo incrível**.  
-🌎 Morei nos **EUA (Texas)** por 6 meses em um intercâmbio cultural e acadêmico, aprimorando meu inglês e visão global.  
+💡 I enjoy tackling complex challenges and believe that **every line of code is an opportunity to build something impactful**.  
+🌎 I lived in the **United States (Texas)** for 6 months during a cultural and academic exchange program, strengthening my English skills and global perspective.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🧠 Core Skills & Expertise
 
-### **Linguagens de Programação**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white)
+- Backend development with **Java & Spring Boot**
+- **Microservices architecture** and service-to-service communication
+- **Event-driven systems** and asynchronous processing
+- **Observability & monitoring** for distributed systems
+- **Containerization & cloud-native development**
+- Clean Code, SOLID principles, and RESTful API design
 
-### **Marcação & Estilo**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white)
+---
 
-### **Frameworks & Bibliotecas**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4.svg?logo=dotnet&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4.svg?logo=windows&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
+## 🛠️ Technologies & Tools
+
+### **Programming Languages**
+- Java
+- C#
+- Python
+- JavaScript
+- C
+
+### **Frameworks & Libraries**
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- JavaMailSender
+- .NET & ASP.NET
+- Windows Forms
+
+### **Messaging & Streaming**
+- Apache Kafka
+- RabbitMQ
+
+### **Databases**
+- PostgreSQL
+- MySQL
+- SQL Server
+
+### **Cache**
+- Redis
 
 ### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=white)
+- AWS (EC2, Lambda)
+- Docker
+- Docker Compose
+- GitHub Actions (CI/CD)
 
-### **Banco de Dados**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white)
+### **Observability & Monitoring**
+- Prometheus
+- Grafana
 
-### **Ferramentas**
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)
-![UML](https://img.shields.io/badge/UML-02569B.svg?logo=data:image/svg+xml;base64&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white)
+### **Tools & Practices**
+- Git & GitHub
+- REST APIs
+- UML
+- Jira
+- VS Code
+- IntelliJ IDEA
 
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victrhugo&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victrhugo&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victrhugo&show_icons=true&theme=radical)
 
 ---
 
-## 📬 Contato
+## 📬 Contact
+
 📧 **Email:** victorhforworking@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/v-ictorh/)  
-💻 [Portfólio](https://victorhsantos.framer.website/)
+💼 **LinkedIn:** https://www.linkedin.com/in/v-ictorh/  
+💻 **Portfolio:** https://victorhsantos.framer.website/
 
+---
 
+⭐ Always learning, always building, always improving.
