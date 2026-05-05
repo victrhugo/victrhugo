@@ -1,8 +1,7 @@
 # 👋 Hello World!
 
 I'm **Victor Hugo**, a **Backend Software Developer** focused on building **scalable, resilient, and well-architected systems**.  
-Driven by curiosity, continuous learning, and real-world problem solving.
-
+Driven by curiosity, continuous learning, and real-world problem solving.  
 Currently pursuing a degree in **Systems Analysis and Development**, with strong hands-on experience in **Java, Spring Boot, Cloud, and Distributed Systems**.
 
 ---
@@ -11,11 +10,9 @@ Currently pursuing a degree in **Systems Analysis and Development**, with strong
 
 ```java
 public class VictorHugo {
-
     private String role = "Backend Software Engineer";
     private String focus = "Backend • Cloud • Microservices • Distributed Systems";
     private String mindset = "Build scalable solutions with clean architecture and strong fundamentals";
-
     private List<String> stack = List.of(
         "Java", "Spring Boot", "Microservices",
         "Messaging", "Observability", "Cloud", "Docker"
@@ -28,69 +25,20 @@ public class VictorHugo {
 
 ---
 
-## 🧠 Core Skills & Expertise
+## 🧠 Core Skills
 
 - Backend development with **Java & Spring Boot**
 - **Microservices architecture** and service-to-service communication
-- **Event-driven systems** and asynchronous processing
-- **Observability & monitoring** for distributed systems
-- **Containerization & cloud-native development**
+- **Event-driven systems** with Kafka & RabbitMQ
+- **Observability & monitoring** with Prometheus & Grafana
+- **Containerization & cloud-native** development with Docker & AWS
 - Clean Code, SOLID principles, and RESTful API design
-
----
-
-## 🛠️ Technologies & Tools
-
-### **Programming Languages**
-- Java
-- C#
-- Python
-- JavaScript
-- C
-
-### **Frameworks & Libraries**
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- JavaMailSender
-- .NET & ASP.NET
-- Windows Forms
-
-### **Messaging & Streaming**
-- Apache Kafka
-- RabbitMQ
-
-### **Databases**
-- PostgreSQL
-- MySQL
-- SQL Server
-
-### **Cache**
-- Redis
-
-### **Cloud & DevOps**
-- AWS (EC2, Lambda)
-- Docker
-- Docker Compose
-- GitHub Actions (CI/CD)
-
-### **Observability & Monitoring**
-- Prometheus
-- Grafana
-
-### **Tools & Practices**
-- Git & GitHub
-- REST APIs
-- UML
-- Jira
-- VS Code
-- IntelliJ IDEA
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victrhugo&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victrhugo&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victrhugo&show_icons=true&theme=radical)
 
 ---
