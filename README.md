@@ -36,13 +36,6 @@ public class VictorHugo {
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victrhugo&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victrhugo&show_icons=true&theme=radical)
-
----
-
 ## 📬 Contact
 
 📧 **Email:** victorhforworking@gmail.com  
