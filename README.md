@@ -8,6 +8,5 @@ I enjoy understanding how large-scale systems are designed, not only how they ar
 
 ## Contact
 
-- Portfolio → https://victrhugo.vercel.app
 - LinkedIn → https://www.linkedin.com/in/v-ictorh/
 - Email → victorhforworking@gmail.com
