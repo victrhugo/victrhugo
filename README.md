@@ -1,5 +1,3 @@
-# 𝙑𝙞𝙘𝙩𝙤𝙧 𝙃𝙪𝙜𝙤
-
 Backend Software Engineer passionate about building scalable, reliable, and maintainable systems.
 
 Currently working with Java and Spring Boot, developing enterprise applications and continuously deepening my knowledge of software architecture, distributed systems, cloud computing, and backend engineering.
